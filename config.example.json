@@ -1,0 +1,18 @@
+{
+  "lark": {
+    "app_id": "your_lark_app_id",
+    "app_secret": "your_lark_app_secret",
+    "verification_token": "your_verification_token",
+    "encrypt_key": "your_encrypt_key"
+  },
+  "dify": {
+    "api_key": "your_dify_api_key",
+    "base_url": "https://api.dify.ai",
+    "timeout": 30
+  },
+  "logging": {
+    "level": "info",
+    "format": "json",
+    "output": "stdout"
+  }
+}
